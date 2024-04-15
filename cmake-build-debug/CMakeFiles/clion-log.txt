@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /root/GuoWebServer -B /root/GuoWebServer/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/GuoWebServer/cmake-build-debug
